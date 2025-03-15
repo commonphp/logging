@@ -1,5 +1,7 @@
 {
   "name": "comphp/logging",
+  "description": "A minimal, PSR-3 compliant logging library designed for flexibility and simplicity.",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Neuron\\Logging\\": "src/"
