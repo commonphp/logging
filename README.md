@@ -36,6 +36,7 @@ Invalid logging targets, formatter failures, unwritable log files, and driver fa
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)

@@ -4,9 +4,7 @@ declare(strict_types=1);
 
 namespace CommonPHP\Logging\Exceptions;
 
-use RuntimeException;
-
-class InvalidLogTargetException extends LoggingException
+class InvalidLogTargetException extends LogTargetException
 {
 
 }

@@ -15,8 +15,7 @@
   },
   "require": {
     "php": "^8.5",
-    "comphp/runtime": "^0.3",
-    "psr/container": "^2.0",
+    "comphp/runtime": "^0.3.1",
     "psr/log": "^3.0"
   },
   "require-dev": {
