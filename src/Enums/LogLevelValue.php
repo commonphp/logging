@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace CommonPHP\Logging\Enums;
 
-class LogLevelValue
+enum LogLevelValue
 {
 
 }
